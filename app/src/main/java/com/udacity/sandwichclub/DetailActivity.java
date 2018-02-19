@@ -11,8 +11,6 @@ import com.squareup.picasso.Picasso;
 import com.udacity.sandwichclub.model.Sandwich;
 import com.udacity.sandwichclub.utils.JsonUtils;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
 import java.util.List;
 
 public class DetailActivity extends AppCompatActivity {
